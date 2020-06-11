@@ -1,3 +1,3 @@
-D:/work_space/c_work/demo1001/cmake-build-debug/CMakeFiles/c_work.dir
-D:/work_space/c_work/demo1001/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/work_space/c_work/demo1001/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/work_space/c_work/PAT1001/cmake-build-debug/CMakeFiles/c_work.dir
+D:/work_space/c_work/PAT1001/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/work_space/c_work/PAT1001/cmake-build-debug/CMakeFiles/rebuild_cache.dir

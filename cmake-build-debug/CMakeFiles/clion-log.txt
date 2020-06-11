@@ -1,4 +1,4 @@
-"D:\work_space\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\work_space\c_work\demo1001
+"D:\work_space\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\work_space\c_work\PAT1001
 -- The C compiler identification is GNU 9.2.0
 -- Check for working C compiler: D:/work_space/MinGw/bin/gcc.exe
 -- Check for working C compiler: D:/work_space/MinGw/bin/gcc.exe -- works
@@ -8,4 +8,4 @@
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/work_space/c_work/demo1001/cmake-build-debug
+-- Build files have been written to: D:/work_space/c_work/PAT1001/cmake-build-debug
